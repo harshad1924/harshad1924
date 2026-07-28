@@ -31,7 +31,6 @@
 ### 🤖 AI Mock Interview Coach
 - Resume Analysis
 - AI Interview Questions
-- Speech Recognition
 - Interview Feedback
 
 ### 📊 Customer Shopping Behaviour Analysis Dashboard
@@ -40,7 +39,7 @@
 - Power BI
 - Interactive Dashboard
 
-### 📰 News Sentiment Analysis Dashboard
+### 📰 News Analysis Dashboard
 - Python
 - NLP
 - Machine Learning
