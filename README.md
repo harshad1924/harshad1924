@@ -41,9 +41,8 @@
 
 ### 📰 News Analysis Dashboard
 - Python
-- NLP
-- Machine Learning
-- Streamlit
+- Power BI
+- PostgreSQL
 
 ---
 
