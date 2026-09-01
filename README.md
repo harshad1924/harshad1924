@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science Graduate
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Skilled in Python, SQL, Power BI, Data Analytics
+- 📊 Hands-on experience in Python, SQL, Power BI, Data Analytics
 - 💻 Interested in AI Applications, Data Science & Backend Development
 - 🌱 Currently learning Deep Learning, RAG & LLM Applications
 - 📫 Reach me at: **chavanharshad550@gmail.com**
