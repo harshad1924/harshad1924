@@ -33,17 +33,24 @@
 - AI Interview Questions
 - Interview Feedback
 
-### 📊 Customer Shopping Behaviour Analysis Dashboard
+### 🏦 Bank Risk Analysis Dashboard
 - Python
 - SQL
 - Power BI
-- Interactive Dashboard
+- Interactive dashboard to analyze customer credit risk, loan defaults, overdue payments, credit scores, and risk categories
 
-### 📰 News Analysis Dashboard
+### 🤖 AI Document Knowledge Assistant
 - Python
-- Power BI
-- PostgreSQL
+- SQL
+- NLP / Generative AI
+- Document Processing
+- Built an AI-powered document knowledge system that extracts information from documents and allows users to ask questions and retrieve relevant answers using natural language
 
+### 📊 Customer Shopping Behaviour Analysis Dashboard 
+- Python
+- SQL 
+- Power BI
+- Interactive Dashboard like this give me bank analysis and ai document knowledge
 ---
 
 
