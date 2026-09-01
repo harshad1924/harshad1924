@@ -50,7 +50,7 @@
 - Python
 - SQL 
 - Power BI
-- Interactive Dashboard like this give me bank analysis and ai document knowledge
+- Interactive Dashboard to analyze customer's shopping behaviour 
 ---
 
 
